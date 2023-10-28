@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T14:19:31.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="5uhGQHPHw0KcqLViSn84" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-28T14:20:08.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="JCPakykP0LsEFKT0rJ5E" version="22.0.8" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tfk_0Zx8Wnt2UiAw7mxH-1" value="&lt;div&gt;app is opend&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
+        <mxCell id="tfk_0Zx8Wnt2UiAw7mxH-1" value="&lt;div&gt;app is opend&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="200" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q12dqzmb38iDtTZ3uPJa-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="Q12dqzmb38iDtTZ3uPJa-2">
@@ -214,6 +214,9 @@
         </mxCell>
         <mxCell id="Q12dqzmb38iDtTZ3uPJa-30" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="410" y="1278" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-31" value="App.js" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="130" y="8" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
