@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T12:45:48.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="X3jqPhmUslDitobFcoD2" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T14:19:31.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="5uhGQHPHw0KcqLViSn84" version="22.0.8" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,6 +12,11 @@
         </mxCell>
         <mxCell id="p63Ua8uAXE2E3tDGS-_m-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p63Ua8uAXE2E3tDGS-_m-1" target="p63Ua8uAXE2E3tDGS-_m-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4BOi2eAurnvp3Njd-R5r-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p63Ua8uAXE2E3tDGS-_m-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="p63Ua8uAXE2E3tDGS-_m-1" value="get accesstoken from cookie" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="200" width="170" height="60" as="geometry" />
@@ -87,13 +92,128 @@
           <mxGeometry x="310" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p63Ua8uAXE2E3tDGS-_m-38" value="showing invalid message toast " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="655" width="120" height="80" as="geometry" />
+          <mxGeometry x="120" y="655" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p63Ua8uAXE2E3tDGS-_m-40" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="748" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p63Ua8uAXE2E3tDGS-_m-41" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="675" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BKQnreVMLD5VVl57C2pI" name="Page-2">
+    <mxGraphModel dx="1434" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" target="Q12dqzmb38iDtTZ3uPJa-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="110" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="240" y="180" />
+              <mxPoint x="240" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfk_0Zx8Wnt2UiAw7mxH-1" value="&lt;div&gt;app is opend&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="200" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="Q12dqzmb38iDtTZ3uPJa-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-2" value="getting tokens from cookies and accoint id " style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="Q12dqzmb38iDtTZ3uPJa-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-3" value="is refressh token in cookie?" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="175" y="330" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="Q12dqzmb38iDtTZ3uPJa-7" target="Q12dqzmb38iDtTZ3uPJa-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-7" value="&lt;div&gt;checking expiration&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="185" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="Q12dqzmb38iDtTZ3uPJa-8" target="Q12dqzmb38iDtTZ3uPJa-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="Q12dqzmb38iDtTZ3uPJa-8" target="Q12dqzmb38iDtTZ3uPJa-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-8" value="&lt;div&gt;is refresh token &lt;br&gt;&lt;/div&gt;&lt;div&gt;expired?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="690" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-10" value="remove all data in cookies and redux" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="185" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="Q12dqzmb38iDtTZ3uPJa-12" target="Q12dqzmb38iDtTZ3uPJa-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-12" value="checking access token in cookie" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="450" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-14" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="200" y="818" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-15" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="300" y="720" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="Q12dqzmb38iDtTZ3uPJa-16" target="Q12dqzmb38iDtTZ3uPJa-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q12dqzmb38iDtTZ3uPJa-16" target="Q12dqzmb38iDtTZ3uPJa-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="448" y="950" />
+              <mxPoint x="240" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-16" value="&lt;div&gt;is access token&amp;nbsp;&lt;/div&gt;&lt;div&gt;in cookie?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="840" width="125" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="Q12dqzmb38iDtTZ3uPJa-18" target="Q12dqzmb38iDtTZ3uPJa-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-18" value="checking access token expiration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1096" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-20" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="470" y="978" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="Q12dqzmb38iDtTZ3uPJa-21" target="Q12dqzmb38iDtTZ3uPJa-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-28" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#143642;" vertex="1" connectable="0" parent="Q12dqzmb38iDtTZ3uPJa-24">
+          <mxGeometry x="-0.6154" y="-4" relative="1" as="geometry">
+            <mxPoint x="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="Q12dqzmb38iDtTZ3uPJa-21" target="Q12dqzmb38iDtTZ3uPJa-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-21" value="&lt;div&gt;is access token&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;expired?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="1240" width="125" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-23" value="sending refresh token and get new tokens and save it in cookies and redux" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-25" value="end" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-27" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="390" y="918" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q12dqzmb38iDtTZ3uPJa-30" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1278" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
