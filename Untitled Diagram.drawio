@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T12:42:50.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="k140ePR6Ri8T0ph3zELg" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T12:45:48.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="X3jqPhmUslDitobFcoD2" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,13 +36,16 @@
         <mxCell id="p63Ua8uAXE2E3tDGS-_m-10" value="sending palcode validity request " style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="385" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p63Ua8uAXE2E3tDGS-_m-12" value="&lt;div&gt;yes&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="405" y="440" width="40" height="40" as="geometry" />
+        <mxCell id="p63Ua8uAXE2E3tDGS-_m-12" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#143642;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="405" y="445" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p63Ua8uAXE2E3tDGS-_m-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p63Ua8uAXE2E3tDGS-_m-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="445" y="810" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p63Ua8uAXE2E3tDGS-_m-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p63Ua8uAXE2E3tDGS-_m-16" target="p63Ua8uAXE2E3tDGS-_m-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p63Ua8uAXE2E3tDGS-_m-16" value="response status =200" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="387.5" y="640" width="115" height="110" as="geometry" />
@@ -77,11 +80,20 @@
         <mxCell id="p63Ua8uAXE2E3tDGS-_m-27" value="save tokens and account id in cookie and redux" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p63Ua8uAXE2E3tDGS-_m-35" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p63Ua8uAXE2E3tDGS-_m-35" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#143642;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="348" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p63Ua8uAXE2E3tDGS-_m-37" value="&lt;b&gt;Dial.jsx&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p63Ua8uAXE2E3tDGS-_m-38" value="showing invalid message toast " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="655" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p63Ua8uAXE2E3tDGS-_m-40" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="748" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p63Ua8uAXE2E3tDGS-_m-41" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="675" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
